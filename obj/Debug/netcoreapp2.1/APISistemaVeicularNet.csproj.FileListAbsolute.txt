@@ -1,0 +1,28 @@
+D:\Exemplos\.net Core\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.csprojAssemblyReference.cache
+D:\Exemplos\.net Core\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.csproj.CoreCompileInputs.cache
+D:\Exemplos\.net Core\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.RazorAssemblyInfo.cache
+D:\Exemplos\.net Core\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.RazorAssemblyInfo.cs
+D:\Exemplos\.net Core\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.AssemblyInfoInputs.cache
+D:\Exemplos\.net Core\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.AssemblyInfo.cs
+D:\Exemplos\.net Core\APISistemaVeicularNet\bin\Debug\netcoreapp2.1\APISistemaVeicularNet.deps.json
+D:\Exemplos\.net Core\APISistemaVeicularNet\bin\Debug\netcoreapp2.1\APISistemaVeicularNet.runtimeconfig.json
+D:\Exemplos\.net Core\APISistemaVeicularNet\bin\Debug\netcoreapp2.1\APISistemaVeicularNet.runtimeconfig.dev.json
+D:\Exemplos\.net Core\APISistemaVeicularNet\bin\Debug\netcoreapp2.1\APISistemaVeicularNet.dll
+D:\Exemplos\.net Core\APISistemaVeicularNet\bin\Debug\netcoreapp2.1\APISistemaVeicularNet.pdb
+D:\Exemplos\.net Core\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.RazorTargetAssemblyInfo.cache
+D:\Exemplos\.net Core\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.dll
+D:\Exemplos\.net Core\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.pdb
+D:\Exemplos\Angular .net Core\Sistema Veicular\APISistemaVeicularNet\bin\Debug\netcoreapp2.1\APISistemaVeicularNet.deps.json
+D:\Exemplos\Angular .net Core\Sistema Veicular\APISistemaVeicularNet\bin\Debug\netcoreapp2.1\APISistemaVeicularNet.runtimeconfig.json
+D:\Exemplos\Angular .net Core\Sistema Veicular\APISistemaVeicularNet\bin\Debug\netcoreapp2.1\APISistemaVeicularNet.runtimeconfig.dev.json
+D:\Exemplos\Angular .net Core\Sistema Veicular\APISistemaVeicularNet\bin\Debug\netcoreapp2.1\APISistemaVeicularNet.dll
+D:\Exemplos\Angular .net Core\Sistema Veicular\APISistemaVeicularNet\bin\Debug\netcoreapp2.1\APISistemaVeicularNet.pdb
+D:\Exemplos\Angular .net Core\Sistema Veicular\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.csprojAssemblyReference.cache
+D:\Exemplos\Angular .net Core\Sistema Veicular\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.csproj.CoreCompileInputs.cache
+D:\Exemplos\Angular .net Core\Sistema Veicular\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.RazorAssemblyInfo.cache
+D:\Exemplos\Angular .net Core\Sistema Veicular\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.RazorAssemblyInfo.cs
+D:\Exemplos\Angular .net Core\Sistema Veicular\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.AssemblyInfoInputs.cache
+D:\Exemplos\Angular .net Core\Sistema Veicular\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.AssemblyInfo.cs
+D:\Exemplos\Angular .net Core\Sistema Veicular\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.RazorTargetAssemblyInfo.cache
+D:\Exemplos\Angular .net Core\Sistema Veicular\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.dll
+D:\Exemplos\Angular .net Core\Sistema Veicular\APISistemaVeicularNet\obj\Debug\netcoreapp2.1\APISistemaVeicularNet.pdb
